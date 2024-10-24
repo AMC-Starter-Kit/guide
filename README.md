@@ -1,0 +1,2 @@
+# guide
+AMC Starter Kit
