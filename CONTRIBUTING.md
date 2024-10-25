@@ -73,3 +73,7 @@ We expect everyone participating in this project to adhere to our Code of Conduc
 Reporting Bugs
 
 If you find a bug, please open an issue and provide as much detail as possible. This helps us understand and fix the problem more efficiently.
+
+### 9. Github Pages
+
+You can see the result at https://amc-starter-kit.github.io/guide/
