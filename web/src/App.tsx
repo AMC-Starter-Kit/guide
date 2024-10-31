@@ -6,7 +6,7 @@ function App() {
       <main>
         <section>
           <header>AMC?</header>
-          <div></div>
+          <div>American Math Competition</div>
         </section>
       </main>
     </div>
