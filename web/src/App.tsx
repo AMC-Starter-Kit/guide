@@ -58,6 +58,32 @@ Spend extra time strengthening these areas to ensure a balanced skill set across
 Regular practice and a growth mindset are key. Remember, persistence and steady improvement over time are more valuable than cramming.
 Let me know if you’d like resources or specific problem recommendations for your practice! </div>
         </section>
+        <section>
+          <header>What is after the AMC?</header>
+          <div>Passing the AMC (American Mathematics Competition) opens up several exciting opportunities, especially if you score high enough to qualify for the next stages in the math competition series. Here’s what happens if you pass the AMC:
+
+1. Qualifying for the AIME (American Invitational Mathematics Examination)
+High scorers on the AMC 10 or AMC 12 can qualify for the AIME, which is the next level in the U.S. math competition pathway.
+The AIME is a challenging 15-question, 3-hour exam with integer answers, testing advanced problem-solving skills.
+The AMC 8 does not lead to the AIME but serves as valuable early experience for future AMC 10 and 12 exams.
+2. Pathway to the USA Math Olympiad (USAMO) or USA Junior Math Olympiad (USAJMO)
+Exceptional performance on both the AMC 10/12 and AIME may qualify you for the USA Mathematical Olympiad (USAMO) or the USA Junior Mathematical Olympiad (USAJMO), depending on your grade level.
+These are rigorous proof-based competitions that represent the pinnacle of high school mathematics in the United States.
+Qualifying for USAMO or USAJMO is a significant achievement and can bolster a college application, especially for students interested in math, science, and engineering.
+3. Potential for Selection to the Math Olympiad Program (MOP)
+Top scorers on the USAMO are invited to attend the Math Olympiad Program (MOP), an intensive summer training camp where the country’s best young mathematicians prepare for international competition.
+MOP participants have the opportunity to be selected for the U.S. team that competes in the International Mathematical Olympiad (IMO), a highly prestigious global math competition.
+4. Recognition and Awards
+High AMC scores can earn certificates, medals, and recognition, depending on your score and ranking.
+Many schools and local math organizations celebrate top AMC scorers, providing additional motivation and recognition for high-achieving students.
+5. Boosting College Applications
+Success in AMC competitions is impressive to college admissions committees, especially for schools known for strong STEM programs.
+Competitive colleges value students with advanced math skills, and high AMC or AIME scores showcase problem-solving abilities, analytical thinking, and a dedication to academic excellence.
+6. Developing Advanced Math Skills and Confidence
+Whether or not you advance to AIME or beyond, excelling in the AMC builds confidence, strengthens math skills, and prepares you for future challenges in academics and competitions.
+Passing the AMC also connects you to a network of like-minded peers and mentors who share an enthusiasm for mathematics.
+If you’re on the AMC pathway and have passed, congratulations! Each level of achievement in the AMC journey is a commendable milestone that can lead to exciting academic and personal growth.</div>
+        </section>
       </main>
     </div>
   );
